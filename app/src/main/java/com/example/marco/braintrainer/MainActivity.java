@@ -1,3 +1,6 @@
+/*
+* Brian Trainer by Udemy
+* */
 package com.example.marco.braintrainer;
 
 import android.os.Bundle;
