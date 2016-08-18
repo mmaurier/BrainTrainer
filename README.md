@@ -1,2 +1,2 @@
 # BrainTrainer
-Coding project from Udemy.com: "The Complete Android Developer Course". Brain exercise game.
+Coding project from Udemy.com: "The Complete Android Developer Course".<br />Brain exercise game.
